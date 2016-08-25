@@ -6,7 +6,39 @@
 Welcome to ZeTestDocs's documentation!
 ======================================
 
+Contents!:
 
+.. toctree::
+    :titlesonly:
+    :maxdepth: 3
+    :caption: Wiki
+    :glob:
+
+  main/Home
+	main/Alarm-Configuration
+	main/Geofencing
+	main/Installation
+	main/Notification-Templates
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 1
+    :caption: Alert Limits
+    :glob:
+
+	main/Pokemon-Configuration
+	main/Pushbullet
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 1
+    :caption: Alarm Types
+    :glob:
+	main/Slack
+	main/Telegram
+	main/Twilio
+	main/Twitter
+	main/*
 
 Indices and tables
 ==================
