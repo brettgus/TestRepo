@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+    main/*
 
 
 Indices and tables
@@ -28,6 +28,7 @@ Hello!
     :caption: Basic Installation
     :glob:
 
+    main/*
 	main/Alarm-Configuration
 	main/Geofencing
 	main/Home
