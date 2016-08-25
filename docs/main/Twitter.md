@@ -14,7 +14,7 @@
 
 ### Required Parameters
 
-<table>
+<table border="1">
 	<tr><th>Parameters</th>			<th>Description</th></tr>
 	<tr><td>type</td>				<td>must be `twitter`</td></tr>
 	<tr><td>active</td>				<td>`True` for alarm to be active  </td></tr>
@@ -23,6 +23,7 @@
 	<tr><td>consumer_key</td>		<td>Your twitter consumer key</td></tr>
 	<tr><td>consumer_secret</td>	<td>Your twitter consumer secret </td></tr>
 </table>
+  
 
 | Parameters     | Description                            |
 | -------------- |----------------------------------------|
