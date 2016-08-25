@@ -22,23 +22,34 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Hello!
+.. toctree::
+    :titlesonly:
+    :maxdepth: 1
+    :caption: Wiki
+    :glob:
+
+    main/Home
+	main/Alarm-Configuration
+	main/Geofencing
+	main/Installation
+	main/Notification-Templates
 
 .. toctree::
     :titlesonly:
     :maxdepth: 1
-    :caption: Basic Installation
+    :caption: Alert Limits
     :glob:
 
-    main/*
-	main/Alarm-Configuration
-	main/Geofencing
-	main/Home
-	main/Installation
-	main/Notification-Templates
 	main/Pokemon-Configuration
 	main/Pushbullet
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 1
+    :caption: Alarm Types
+    :glob:
 	main/Slack
 	main/Telegram
 	main/Twilio
 	main/Twitter
+	main/*

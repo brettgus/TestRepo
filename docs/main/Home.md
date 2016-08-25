@@ -1,4 +1,4 @@
-#PokeAlarm
+# PokeAlarm Home
 
 The alarm is a third party extension of [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) that allows you to received external notifications via the service of your choice.
 
