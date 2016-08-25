@@ -9,16 +9,12 @@ Welcome to ZeTestDocs's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-    main/*
-
-.. toctree::
     :titlesonly:
     :maxdepth: 1
     :caption: Wiki
     :glob:
 
-    main/Home
+  main/Home
 	main/Alarm-Configuration
 	main/Geofencing
 	main/Installation
