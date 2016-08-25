@@ -1,3 +1,5 @@
+# Notification Templates
+
 You can now customize your alarms to give any message you prefer, based on what you would like to see. For example, a Pushbullet notification text might be `<pkmn> is <dist> away!`. This would send the alert "Bulbasuar is XXm away" when a Bulbasaur is detected.
 
 The templates for the individual services are located in the alarms folder and use the file structure &lt;service_name&gt;_alarm.py.  

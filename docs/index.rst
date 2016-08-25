@@ -12,16 +12,6 @@ Contents:
    :maxdepth: 2
     main/*
 
-Test
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 .. toctree::
     :titlesonly:
     :maxdepth: 1
@@ -53,3 +43,10 @@ Indices and tables
 	main/Twilio
 	main/Twitter
 	main/*
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

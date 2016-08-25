@@ -1,3 +1,5 @@
+# Slac
+
 ## Example Config
 
 ```json

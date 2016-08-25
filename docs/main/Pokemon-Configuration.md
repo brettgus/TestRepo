@@ -1,3 +1,5 @@
+# Pokemon Configuration
+
 To configure what Pokemon you would like to be notified of, you need to edit the alarms.json file. Under the pokemon field, you need to specify the name of the Pokemon, and then specify when you would like to be notified of it.
 
 **Note:** In order for distances to work, you MUST have a location set with `-l LOCATION`
