@@ -20,6 +20,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Hello!
 
 .. toctree::
     :titlesonly:
