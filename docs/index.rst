@@ -12,6 +12,8 @@ Contents:
    :maxdepth: 2
     main/*
 
+Test
+
 
 Indices and tables
 ==================
