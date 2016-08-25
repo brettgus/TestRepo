@@ -20,3 +20,21 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 1
+    :caption: Basic Installation
+    :glob:
+
+	main/Alarm-Configuration
+	main/Geofencing
+	main/Home
+	main/Installation
+	main/Notification-Templates
+	main/Pokemon-Configuration
+	main/Pushbullet
+	main/Slack
+	main/Telegram
+	main/Twilio
+	main/Twitter
